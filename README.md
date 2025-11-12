@@ -41,11 +41,12 @@
   
   ### Cyber Security
   <!--Reverse Enginering-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  
   <!--Web Hacking-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+ 
   <!--Malware-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  is All in Here(Only KR): 
+  ⚡https://proud-ogre-1da.notion.site/2a91fb001ea780c5b5b0e3d16c677d95?pvs=74⚡
   <br/>
   <br/>
   
