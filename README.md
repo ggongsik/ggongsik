@@ -22,14 +22,14 @@
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--C#-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sharp-99CC00?style=flat-square&logo=Csharp&logoColor=white"/>
   <!--C++-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <br/>
   
   ### Game Engine
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unityh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unity-#24D2C8?style=flat-square&logo=unity&logoColor=white"/>
   <!--Unreal Engine-->
   <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
   <br/>
