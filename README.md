@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Game Client Programmer & cyber Security Student from South Korea.<br/>
   #### :fire: I aim to become a Game Client Programmer.<br/>
-  #### :mortar_board: SCE, Dongguk University(DGU)
+  #### :mortar_board: CSE, Dongguk University(DGU)
   <br/>
   <br/>
   
